@@ -1,0 +1,15 @@
+1. Go to Anaconda Promp and run as administrator
+
+2. Type: activate final_project_traffic_detection
+
+# Enter the following commands:
+
+3. cd C:\final_project_traffic_detection\model\research\object_detection
+
+4. idle
+
+# In the Idle:
+
+5. File -> open -> Object_detection_webcam.py / Object_detection_image.py / Object_detection_video.py
+
+6. Run -> run module
